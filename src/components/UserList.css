@@ -1,0 +1,13 @@
+.userList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.error {
+  background: #213547;
+  color: #ffffff;
+
+  border-radius: 5px;
+  padding: 10px;
+}
